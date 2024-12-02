@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "574512265912",
+    "project_id": "pr-irlandes",
+    "storage_bucket": "pr-irlandes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574512265912:android:a3d5e1ccdef45aff81524d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGT1pJ0lfyfyipHKP4alEjG1R8-TVgkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574512265912:android:4a906fd69ce014d381524d",
+        "android_client_info": {
+          "package_name": "com.example.pr_h23_irlandes_web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGT1pJ0lfyfyipHKP4alEjG1R8-TVgkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574512265912:android:b31a6504b9aa84d181524d",
+        "android_client_info": {
+          "package_name": "proyectocolegiotest.colegiotest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRGT1pJ0lfyfyipHKP4alEjG1R8-TVgkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
